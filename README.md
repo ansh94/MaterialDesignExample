@@ -1,2 +1,2 @@
 # MaterialDesignExample
-Sample app for Material Design
+Sample app for Material Design (Based on material design codelab)
